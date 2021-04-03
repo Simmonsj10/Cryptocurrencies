@@ -15,13 +15,17 @@ Below are five outputs from the unsupervised exploration.
 ![Images/Crypto_PCA_Table.png](Images/Crypto_PCA_Table.png)
 
 #### Elbow Curve to Determine Number of K Clusters
+Elbow Curve helped determine the appropriate number of clusters: 4.
 ![Images/Elbow_Curve.png](Images/Elbow_Curve.png)
 
 #### Cryptocurrency Coin Clusters (K = 4)
+3D Visual Plot accessible through ipynb file.
 ![Images/Cluster_Visual.png](Images/Cluster_Visual.png)
 
 #### Table of Tradable Cryptocurrencies
+Created interactive table of tradable cryptocurrencies.
 ![Images/Tradable_Crypto_Table.png](Images/Tradable_Crypto_Table.png)
 
 #### Coin Supply x Coins Mined Scatter Plot with Cluster Classes (K = 4)
+Plotted the coin supply and coins mined, and included cluster class visuals for additional findings.
 ![Images/Cluster_Supply_Mine_Visual.png](Images/Cluster_Supply_Mine_Visual.png)
